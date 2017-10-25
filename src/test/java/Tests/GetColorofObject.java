@@ -23,14 +23,6 @@ public class GetColorofObject {
 		String hex = Color.fromString(color).asHex();
 		System.out.println(hex);
 		
-
-		
-		
-		
-		
-		
 	}
-	
-	
 
 }
